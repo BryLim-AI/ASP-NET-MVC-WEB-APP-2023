@@ -1,0 +1,15 @@
+﻿@model QrCodeModel
+
+<form asp-action="Index" asp-controller="QrCode" method="post">
+
+    <label asp-for="QRUrl">Enter URL:</label>
+    <input asp-for="QRUrl" class="form-control"/>
+    <br />
+
+    <input type="submit" value="Generate" class="btn btn-success" />
+    <a asp-controller="QrCode" asp-action="Index" class="btn btn-dark">Generate Another</a>
+
+    <div class="form-group">
+        <img src="@ViewBag.QrCodeUri" class="img-thumbnail" />
+    </div>
+</form>

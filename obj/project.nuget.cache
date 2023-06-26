@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bfTt6L1gR67Ad63/raq5DaitqAj4H+B6l2U410E8eOcRV2fZ5UEj+TWqmlmxQNsuEllIrV0EFNwQZmKdxMKHAw==",
+  "success": true,
+  "projectFilePath": "Q:\\mvc\\qrCode\\QrCode\\QrCode\\QrCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\techra\\.nuget\\packages\\barcode\\2023.6.1\\barcode.2023.6.1.nupkg.sha512",
+    "C:\\Users\\techra\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\techra\\.nuget\\packages\\ironsoftware.system.drawing\\2023.6.1\\ironsoftware.system.drawing.2023.6.1.nupkg.sha512",
+    "C:\\Users\\techra\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\techra\\.nuget\\packages\\sixlabors.imagesharp\\3.0.0\\sixlabors.imagesharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\techra\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
